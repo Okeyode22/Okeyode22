@@ -1,4 +1,4 @@
-# Hi, I'm Adebayo! 
+# Hi there! 
 
 ## About me
 #### I'm a Data Analyst || Business Analyst || Business Intelligence Analyst
